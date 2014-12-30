@@ -2,3 +2,5 @@
 
 Lesson Updates:
   1. Created repo for first course
+  2. Created calculator.rb
+  3. Installed Pry gem
